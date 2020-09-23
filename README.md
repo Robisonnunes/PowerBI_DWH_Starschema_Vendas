@@ -6,9 +6,10 @@
 
 
 Conceitos empregados:
-Modelagem de dados
-Relacionamento e cardinalidade
-
+<ul>
+<li>Modelagem de dados</li>
+  <li>Relacionamento e cardinalidade</li>
+</ul>
 
 Arquivo:
 https://lnkd.in/ey8Wavq
